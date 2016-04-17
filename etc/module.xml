@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2016 Matthias Herold
+ * See LICENSE.md bundled with this module for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Herold_AdminHoverNavigation" setup_version="1.0.0">
+        <sequence>
+            <module name="Magento_Theme"/>
+            <module name="Magento_Backend"/>
+        </sequence>
+    </module>
+</config>
