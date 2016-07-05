@@ -4,7 +4,7 @@ This module adds hover functionality to the admin menu
 
 ## Current version
 
-`1.0.0`
+`1.0.1`
 
 ## Installation
 
